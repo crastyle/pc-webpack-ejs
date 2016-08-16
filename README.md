@@ -40,5 +40,3 @@ webpack+gulp+es6+sass
 启动本地测试环境
 > npm run start
 
-
-[TOC]
